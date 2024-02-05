@@ -1,0 +1,7 @@
+import org.apache.hadoop.ipc.protobuf.RpcHeaderProtos.RpcSaslProto;
+public class FunctionUse20127 {
+public void funcUse() {
+RpcSaslProto rpcsaslproto = new RpcSaslProto();
+rpcsaslproto.hashCode();
+}
+}

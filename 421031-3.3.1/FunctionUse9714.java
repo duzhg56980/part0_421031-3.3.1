@@ -1,0 +1,7 @@
+import org.apache.hadoop.fs.viewfs.RegexMountPointResolvedDstPathReplaceInterceptor;
+public class FunctionUse9714 {
+public void funcUse() {
+RegexMountPointResolvedDstPathReplaceInterceptor regexmountpointresolveddstpathreplaceinterceptor = new RegexMountPointResolvedDstPathReplaceInterceptor();
+regexmountpointresolveddstpathreplaceinterceptor.deserializeFromString(null);
+}
+}
